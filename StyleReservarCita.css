@@ -1,0 +1,333 @@
+.ReadonlytbNombresApellidosDoctor{
+	
+    font-size: 15px;
+    font-weight: 500;
+}
+.ReadonlyAttributeLabel{
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.ReadonlyAttribute{
+	font-size: 13px;
+}
+
+#SDTINFORMACIONDELPACIENTES__SDTINFORMACIONDELPACIENTEPESO_0001 {
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+#SDTINFORMACIONDELPACIENTES__SDTINFORMACIONDELPACIENTEESTATURA_0001 {
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+#SDTINFORMACIONDELPACIENTES__SDTINFORMACIONDELPACIENTEMOTIVOCONSULTA_0001{
+    width: 100%;
+	height: 50px;
+    font-size: 13px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+
+
+
+
+    #span_SDTINFORMACIONDELPACIENTES__SDTINFORMACIONDELPACIENTEID_0001{
+
+    font-size: 13px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    height: 35px;
+    margin-top: -7px;
+    }
+    #span_SDTINFORMACIONDELPACIENTES__SDTINFORMACIONDELPACIENTENOMBRESAPELLIDOS_0001{
+    font-size: 13px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    height: 35px;
+    margin-top: -7px;
+    }
+    #span_SDTINFORMACIONDELPACIENTES__SDTINFORMACIONDELPACIENTETIPODOCUMENTO_0001{
+    font-size: 13px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    height: 35px;
+    margin-top: -7px;
+    }
+    #span_SDTINFORMACIONDELPACIENTES__SDTINFORMACIONDELPACIENTENRODOCUMENTO_0001{
+    font-size: 13px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    height: 35px;
+    margin-top: -7px;
+    }
+    #span_SDTINFORMACIONDELPACIENTES__SDTINFORMACIONDELPACIENTEFECHANACIMIENTO_0001{
+    font-size: 13px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    height: 35px;
+    margin-top: -7px;
+    }
+    #span_SDTINFORMACIONDELPACIENTES__SDTINFORMACIONDELPACIENTESEXO_0001{
+    font-size: 13px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    height: 35px;
+    margin-top: -7px;
+    }
+    #span_SDTINFORMACIONDELPACIENTES__SDTINFORMACIONDELPACIENTEEMAIL_0001{
+   font-size: 13px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    height: 35px;
+    margin-top: -7px;
+    }
+
+    .DscTop>DIV>.gx-label {
+    padding-left: 22px;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: monospace;
+    	}
+
+
+
+   #SDTINFORMACIONDELPACIENTEFACTURACIONBS__SDTINFORMACIONDELPACIENTEFACTURACIONBNOMBRES_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 2px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+   }
+
+   #SDTINFORMACIONDELPACIENTEFACTURACIONBS__SDTINFORMACIONDELPACIENTEFACTURACIONBAPELLIDOS_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 2px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+   }
+   #SDTINFORMACIONDELPACIENTEFACTURACIONBS__SDTINFORMACIONDELPACIENTEFACTURACIONBTIPODOCUMENTO_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 2px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+   }
+   #SDTINFORMACIONDELPACIENTEFACTURACIONBS__SDTINFORMACIONDELPACIENTEFACTURACIONBNRODOCUMENTO_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 2px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+   }
+   #SDTINFORMACIONDELPACIENTEFACTURACIONBS__SDTINFORMACIONDELPACIENTEFACTURACIONBEMAIL_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 2px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+   }
+   #SDTINFORMACIONDELPACIENTEFACTURACIONBS__SDTINFORMACIONDELPACIENTEFACTURACIONBTELEFONO_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 2px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+   }
+   #SDTINFORMACIONDELPACIENTEFACTURACIONBS__SDTINFORMACIONDELPACIENTEFACTURACIONBDIRECCION_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 2px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+   }
+
+
+   .AttributeFacturacion{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: -20px;
+
+   }
+   .AttributeFacturacion2{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: -25px;
+
+   }
+
+
+
+
+   #SDTINFORMACIONDELPACIENTEFACTURACIONFS__SDTINFORMACIONDELPACIENTEFACTURACIONFTIPODOCUMENTO_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 1px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+   }
+
+   #SDTINFORMACIONDELPACIENTEFACTURACIONFS__SDTINFORMACIONDELPACIENTEFACTURACIONFNRODOCUMENTO_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 1px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+   }
+   #SDTINFORMACIONDELPACIENTEFACTURACIONFS__SDTINFORMACIONDELPACIENTEFACTURACIONFRAZONSOCIAL_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 1px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+   }
+   
+   #SDTINFORMACIONDELPACIENTEFACTURACIONFS__SDTINFORMACIONDELPACIENTEFACTURACIONFDIRECCION_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 1px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+   }
+
+   #SDTINFORMACIONDELPACIENTEFACTURACIONFS__SDTINFORMACIONDELPACIENTEFACTURACIONFEMAIL_0001{
+    border-color: #dcdcdc;
+    color: #333;
+    font-size: 13px;
+    min-height: 35px;
+    padding: 6px 1px;
+    margin-top: -7px;
+    border-bottom: 2px solid #EAEAEA;;
+    border-radius:3px;
+    width: 100%;
+    min-width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+   }

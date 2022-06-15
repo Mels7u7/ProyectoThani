@@ -1,0 +1,96 @@
+div#GridespecialidadsedeContainerDiv {
+    padding-top: 10px;
+    padding-right: 12px;
+    padding-bottom: 0;
+    margin-top: -15px;
+    margin-right: -14px;
+    margin-bottom: 5px;
+    margin-left: -15px;
+}
+div#GrideducacionContainerDiv {
+    padding-top: 10px;
+    padding-right: 12px;
+    padding-bottom: 0;
+    margin-top: -15px;
+    margin-right: -14px;
+    margin-bottom: 5px;
+    margin-left: -15px;
+}
+div#GridexperiencialaboralContainerDiv {
+    padding-top: 10px;
+    padding-right: 12px;
+    padding-bottom: 0;
+    margin-top: -15px;
+    margin-right: -14px;
+    margin-bottom: 5px;
+    margin-left: -15px;
+}
+div#GridpremiosContainerDiv {
+    padding-top: 10px;
+    padding-right: 12px;
+    padding-bottom: 0;
+    margin-top: -15px;
+    margin-right: -14px;
+    margin-bottom: 5px;
+    margin-left: -15px;
+}
+div#GridserviciosContainerDiv {
+    padding-top: 10px;
+    padding-right: 12px;
+    padding-bottom: 0;
+    margin-top: -15px;
+    margin-right: -14px;
+    margin-bottom: 5px;
+    margin-left: -15px;
+}
+
+
+
+span#TEXTBLOCKINFOSOLICITADAPROF {
+    font-family: "MyriadPro-Bold";
+    font-size: 17px;
+
+    white-space: normal;
+
+    color: #666;
+}
+
+label.gx-label.col-xs-12.AttributeRegistroProfesionalLabel.control-label {
+    font-family: "MyriadPro-Regular";
+    font-size: 14px;
+
+    color: #333;
+}
+
+
+
+/*=============================================
+ESCRITORIO PEQUEÑO O TABLET VERTICAL (SM revisamos en 768px)
+=============================================*/
+
+@media (max-width:991px) and (min-width:768px) {
+    .TableMainRP {
+        margin-right: -120px;
+        margin-left: 30px;
+    }
+}
+
+/*=============================================
+MOVIL (XS revisamos en 481px a 767)
+=============================================*/
+
+@media (max-width:767px) and (min-width: 481px) {
+    .TableMainRP {
+        margin-right: 30px;
+        margin-left: -70px;
+    }
+}
+/*=============================================
+MOVIL (XS revisamos en 320px a 480px)
+=============================================*/
+@media(max-width: 480px) and (min-width: 320px) {
+    .TableMainRP {
+        margin-right: 30px;
+        margin-left: -90px;
+    }
+}

@@ -1,0 +1,196 @@
+span#TEXTBLOCKMIPERFIL > a {
+    font-size: 14px;
+    font-weight: 500;
+
+    color: black;
+}
+
+span#TEXTBLOCKMIPERFIL > a:hover {
+    font-size: 15px;
+    font-weight: 500;
+
+    color: #14e1fe;
+}
+
+span#TEXTBLOCKDEPENDIENTES > a {
+    font-size: 14px;
+    font-weight: 500;
+
+    color: black;
+}
+
+span#TEXTBLOCKDEPENDIENTES > a:hover {
+    font-size: 15px;
+    font-weight: 500;
+
+    color: #14e1fe;
+}
+
+span#TEXTBLOCKMISCITAS > a {
+    font-size: 14px;
+    font-weight: 500;
+
+    color: black;
+}
+
+span#TEXTBLOCKMISCITAS > a:hover {
+    font-size: 15px;
+    font-weight: 500;
+
+    color: #14e1fe;
+}
+
+span#TEXTBLOCKMISCOMPROBANTES > a {
+    font-size: 14px;
+    font-weight: 500;
+
+    color: black;
+}
+
+span#TEXTBLOCKMISCOMPROBANTES > a:hover {
+    font-size: 15px;
+    font-weight: 500;
+
+    color: #14e1fe;
+}
+
+span#TEXTBLOCKCAMBIARPASSWORD > a {
+    font-size: 14px;
+    font-weight: 500;
+
+    color: black;
+}
+
+span#TEXTBLOCKCAMBIARPASSWORD > a:hover {
+    font-size: 15px;
+    font-weight: 500;
+
+    color: #14e1fe;
+}
+
+span#TEXTBLOCKCERARSESION > a {
+    font-size: 14px;
+    font-weight: 500;
+
+    color: black;
+}
+
+span#TEXTBLOCKCERARSESION > a:hover {
+    font-size: 15px;
+    font-weight: 500;
+
+    color: #14e1fe;
+}
+
+
+.AttFamiliarPaciente {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 14px;
+
+    color: #333;
+    border: 1px solid #5e5e5e;
+    border-radius: 5px;
+}
+
+.AttFamiliarPaciente:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 14px;
+
+    color: #333;
+    border: 2px solid #1fbdef;
+    border-radius: 5px;
+    box-shadow: 0 10px 15px -10px #1fbdef;
+}
+
+
+.AttCambiarPassword {
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: none;
+    border-right: none;
+    border-bottom: 2px solid #dcdcdc;
+    border-left: none;
+    border-radius: 2px;
+}
+
+.AttCambiarPassword:hover {
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: none;
+    border-right: none;
+    border-bottom: 2px solid #1fbdef;
+    border-left: none;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -10px #1fbdef;
+}
+
+
+.AttEditarPaciente:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: none;
+    border-right: none;
+    border-bottom: 2px solid #1fbdef;
+    border-left: none;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -10px #1fbdef;
+}
+
+
+/*footer*/
+
+
+span#MPW0018TXBREGPACIENTE a {
+    font-size: 15px;
+
+    color: white;
+}
+
+span#MPW0018TXBINISIARSESIONPACIENTE a {
+    font-size: 15px;
+
+    color: white;
+}
+
+span#MPW0018TXBBUSCARMEDPACIENTE a {
+    font-size: 15px;
+
+    color: white;
+}
+
+span#MPW0018TXBREGMEDICOS a {
+    font-size: 15px;
+
+    color: white;
+}
+
+span#MPW0018TXBINICIARSESIONMEDICO a {
+    font-size: 15px;
+
+    color: white;
+}
+
+span#MPW0018TXBTABLEROMEDICO a {
+    font-size: 15px;
+
+    color: white;
+}

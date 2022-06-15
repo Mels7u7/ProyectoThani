@@ -1,0 +1,51 @@
+span#FORGOTPASSWORDPAC a {
+    color:#F4B008;
+    font-size: 15px;
+    font-family: 'MyriadPro-Regular';
+}
+
+span#REGISTERUSERPAC a {
+    color:#F4B008;
+    font-size:15px;
+    font-family: 'MyriadPro-Regular';
+     font-weight: 500;
+}
+
+span#NOACCOUNTPAC {
+    color:#666666;
+    font-size:15px;
+    font-family: 'MyriadPro-Regular';
+   
+}
+
+span#FORGOTPASSWORDMED a {
+    color:#00C0EA;
+    font-size: 15px;
+    font-family: 'MyriadPro-Regular';
+}
+
+span#REGISTERUSERMED a {
+    color:#00C0EA;
+    font-size:15px;
+    font-family: 'MyriadPro-Regular';
+     font-weight: 500;
+}
+
+span#NOACCOUNTMED {
+    color:#666666;
+    font-size:15px;
+    font-family: 'MyriadPro-Regular';
+   
+}
+
+input#vUSERNAME::-webkit-input-placeholder {
+    text-align: center;
+    font-family: 'MyriadPro-Regular';
+    font-size: 16px;
+}
+input#vUSERPASSWORD::-webkit-input-placeholder {
+    text-align: center;
+    font-family: 'MyriadPro-Regular';
+    font-size: 16px;
+}
+

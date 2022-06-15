@@ -1,0 +1,656 @@
+#vPACIENTETIPODOCUMENTO {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTETIPODOCUMENTO:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+
+#vPACIENTENRODOCUMENTO {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTENRODOCUMENTO:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+
+#vPACIENTENOMBRES {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTENOMBRES:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+
+#vPACIENTEAPELLIDOPATERNO {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTEAPELLIDOPATERNO:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: none;
+    border-top: 2px solid #1fbdef;
+    border-right: none;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: none;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+#vPACIENTEAPELLIDOMATERNO {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTEAPELLIDOMATERNO:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+#vPACIENTESEXO {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTESEXO:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+#vMES {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 3px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vMES:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 3px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+
+#vDIA {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 3px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vDIA:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 3px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+#vANIO {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 3px;
+    margin-top: -4px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vANIO:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 3px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+#vPACIENTETELEFONO {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTETELEFONO:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+#vPACIENTEDIRECCION {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTEDIRECCION:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+#vPACIENTENACIONALIDAD {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: -4px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTENACIONALIDAD:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+#vPACIENTEDEPARTAMENTO {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTEDEPARTAMENTO:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+#vPACIENTEPROVINCIA {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-top: none;
+    border-right: none;
+    border-bottom: 2px solid #eaeaea;
+    border-left: none;
+    border-radius: 3px;;
+}
+
+#vPACIENTEPROVINCIA:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+#vPACIENTEDISTRITO {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTEDISTRITO:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+
+#vPACIENTECOMOSEENTERO {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTECOMOSEENTERO:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+
+#vPACIENTEEMAIL {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTEEMAIL:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+
+#vPACIENTEPASSWORD {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vPACIENTEPASSWORD:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+#vESPESIFIQUE {
+    width: 100%;
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 15px;
+    margin-top: 1px;
+
+    font-size: 13px;
+
+    color: #333;
+    border-color: #dcdcdc;
+    border-bottom: 2px solid #eaeaea;
+    border-radius: 3px;;
+}
+
+#vESPESIFIQUE:hover {
+    min-width: 100%;
+    min-height: 35px;
+    padding: 6px 4px;
+
+    font-size: 15px;
+
+    color: #333;
+    border-top: 2px solid #1fbdef;
+    border-right: 2px solid #1fbdef;
+    border-bottom: 2px solid #1fbdef;
+    border-left: 2px solid #1fbdef;
+    border-radius: 4px;
+    box-shadow: 0 10px 15px -14px #1fbdef;
+}
+
+span#TITLEINFOSOLICITADA {
+    font-family: "MyriadPro-Bold";
+    font-size: 17px;
+
+    white-space: normal;
+
+    color: #666;
+}
+
+.AttRegistroPacienteLabel.control-label {
+    text-transform: unset;
+}
+
+
+/*responsive*/
+
+
+/*=============================================
+ESCRITORIO PEQUEÑO O TABLET VERTICAL (SM revisamos en 768px)
+=============================================*/
+
+@media (max-width:1023px) and (min-width:768px) {
+    .TableRegistrarMain {
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+}
+
+/*=============================================
+ESCRITORIO PEQUEÑO O TABLET VERTICAL (SM revisamos en 768px)
+=============================================*/
+
+@media (max-width:767px) and (min-width:576px) {
+    .TableRegistrarMain {
+        margin-right: 1%;
+        margin-left: 3%;
+    }
+}
+
+/*=============================================
+MOVIL (XS revisamos en 481px a 767)
+=============================================*/
+
+@media (max-width:575px) and (min-width: 481px) {
+    .TableRegistrarMain {
+        margin-right: 2%;
+        margin-left: 0;
+    }
+}
+/*=============================================
+MOVIL (XS revisamos en 320px a 480px)
+=============================================*/
+@media(max-width: 480px) and (min-width: 320px) {
+    .TableRegistrarMain {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
