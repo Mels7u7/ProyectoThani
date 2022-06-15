@@ -1,0 +1,106 @@
+package com.projectthani ;
+import com.projectthani.*;
+import com.genexus.*;
+import com.genexus.db.*;
+import com.genexus.search.*;
+import java.sql.*;
+
+public final  class GxFullTextSearchReindexer
+{
+   public static int Reindex( int remoteHandle )
+   {
+      GxSilentTrnSdt obj;
+      IGxSilentTrn trn;
+      boolean result;
+      obj = new com.projectthani.wwpbaseobjects.SdtSecFunctionalityRole(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.wwpbaseobjects.SdtSecUserRole(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.wwpbaseobjects.SdtUserCustomizations(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.wwpbaseobjects.SdtSecUser(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtPaciente(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtProfesional(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtCitaDiagnostico(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtCitaServicio(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtConfComision(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtCita(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtReclamo(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtDiagnostico(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtClinica(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtConfig(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtDisponibilidad(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtEspecialidad(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtEncuesta(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtSede(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtPacienteFamiliar(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtLogAccesos(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtMedicamento(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtPais(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtPago(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtRecetaMedica(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtEducacionProfesional(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtRatingProfesional(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtSugerenciasMejorasPlataforma(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtRatingPlataforma(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      obj = new com.projectthani.SdtComentarioProfesional(remoteHandle);
+      trn = obj.getTransaction() ;
+      result = trn.Reindex() ;
+      return 1 ;
+   }
+
+}
+
